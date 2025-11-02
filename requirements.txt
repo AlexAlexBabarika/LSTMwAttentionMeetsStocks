@@ -1,4 +1,6 @@
 torch
 numpy
+pandas
 matplotlib
 seaborn
+yfinance
