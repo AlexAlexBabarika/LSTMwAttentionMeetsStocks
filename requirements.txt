@@ -1,6 +1,8 @@
 torch
 numpy
+polars
+pyarrow
 pandas
-matplotlib
-seaborn
+altair
+vl-convert-python
 yfinance
