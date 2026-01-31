@@ -1,5 +1,5 @@
 stocks
-global_vars.json
 models/
 .vscode/
 model.pt
+.DS_Store
